@@ -1,0 +1,14 @@
+_start_timer: CODE, 422 0 20
+_main: CODE, 362 0 30
+_WriteTimer0: CODE, 442 0 18
+__initialization: CODE, 266 0 26
+_enable_global_interrupts: CODE, 512 0 6
+_timer: CODE, 330 0 32
+_isr: CODE, 8 0 158
+_Read1USART: CODE, 392 0 30
+_Write1USART: CODE, 478 0 18
+_OpenTimer0: CODE, 298 0 32
+i2_WriteTimer0: CODE, 460 0 18
+_Open1USART: CODE, 166 0 100
+_start_usart: CODE, 496 0 16
+Total: 504
